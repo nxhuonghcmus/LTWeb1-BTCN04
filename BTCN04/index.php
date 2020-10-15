@@ -42,7 +42,7 @@
 
 <body>
     <div class="container w3-card-4">
-        <h1>Cộng hai số</h1>
+        <h1>Cộng hai số nguyên</h1>
         <form action="sum.php" method="GET">
             <div class="form-group">
                 <label for="number1">Input number 1 </label><br>
